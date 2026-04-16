@@ -22,6 +22,8 @@
 
 ## 🔍 Visão Geral
 
+O projeto é compatível com **Windows, macOS e Linux**.
+
 Este projeto valida o comportamento dos principais endpoints da **Dog API**, garantindo:
 
 - ✅ Respostas HTTP corretas (status codes)
@@ -178,7 +180,22 @@ mvn clean test -Dtest=RandomImageTest
 mvn clean test -Dtest=BreedsListTest#shouldContainKnownBreeds
 ```
 
----
+## 🚀 Execução Rápida (3 passos)
+
+Para quem quer apenas executar os testes sem instalar nada:
+
+```bash
+# 1. Clone o projeto
+git clone [seu-repositorio]
+
+# 2. Entre na pasta
+cd dog-api-tests
+
+# 3. Execute os testes (Maven baixa tudo automaticamente)
+./mvnw clean test    # Linux/macOS
+# ou
+mvnw.cmd clean test  # Windows
+```
 
 ## 📊 Relatório Allure
 
