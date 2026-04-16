@@ -314,9 +314,13 @@ https://SEU_USUARIO.github.io/dog-api-tests/allure-report
 
 ---
 
-## 👤 Autor
+## 👨‍💻 Desenvolvedor
 
-Desenvolvido como desafio técnico de QA — automação de testes para a Dog API.
+**Jurley Colares Ribeiro**
+
+- 🔗 LinkedIn: [https://www.linkedin.com/in/jurley-ribeiro/](https://www.linkedin.com/in/jurley-ribeiro/)
+- 🐙 GitHub: [https://github.com/Jurley-Ribeiro](https://github.com/Jurley-Ribeiro)
+- 📧 E-mail: [jurley76@hotmail.com](mailto:jurley76@hotmail.com)
 
 ---
 
